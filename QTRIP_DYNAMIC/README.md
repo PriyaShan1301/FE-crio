@@ -4,9 +4,6 @@ QTrip is a travel website aimed at travellers looking for a multitude of adventu
 
 **Skills**: HTML, CSS, JavaScript, Bootstrap
 
-**Live link**: https://krishnakundan-qtrip-dynamic.netlify.app/
-
-**Backend link**: https://a-krishnakundan-qtrip-dynamic.onrender.com
 
 During the course of this project,
 
@@ -20,7 +17,6 @@ During the course of this project,
 
 • Deployed the website using Netlify for Frontend and Render for Backend.   
 
-![image](https://github.com/AKrishnaKundan/QTRIP_DYNAMIC/assets/93312488/31d0a20e-2c94-44b3-972a-3cd62a3a1783)
 
 
 ## Fetch data using REST API and dynamically render landing page
@@ -31,7 +27,7 @@ During the course of this project,
 
 • Implemented logic to dynamically plug in city data to the Landing page’s DOM
 
-![image](https://github.com/AKrishnaKundan/QTRIP_DYNAMIC/assets/93312488/11b6cb6f-5b9a-4dd7-8cb0-791ba6be2183)
+
 
 
 ## Implement the adventures page with multi-select filters
